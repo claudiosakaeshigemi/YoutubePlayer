@@ -106,7 +106,6 @@ public class YoutubeActivity extends YouTubeBaseActivity
         if (!wasRestored) {
             youTubePlayer.cueVideo(YOUTUBE_VIDEO_ID);
         }
-
     }
 
     @Override
